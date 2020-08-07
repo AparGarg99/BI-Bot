@@ -25,4 +25,4 @@ File Name                                                                       
 -----------------                                                                                    |--------------------------------------------------------------------------
 [Modified Dataset.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Modified%20Dataset.ipynb)  | coverting chatbot_data.xlsx to data.csv
 [Training spaCy.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Training%20spaCy.ipynb)      | custom train scaCy model for NER
-[Code.ipynb](https://github.com/AparGarg99/Data_Mining_for_BiosectRx/blob/master/Code.ipynb)         | QA system code
+[Code.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Code.ipynb)                            | QA system code
