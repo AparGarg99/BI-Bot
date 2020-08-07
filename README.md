@@ -1,5 +1,7 @@
 # BI-Bot
 QA System: Business Intelligence in Healthcare
+For more details, check out:
+[PPT](https://github.com/AparGarg99/BI-Bot/blob/master/PPT.pptx)
 
 ## Summary
   - [Installation](#installation)
