@@ -1,5 +1,5 @@
 # BI-Bot
-QA System: Business Intelligence in Healthcare
+QA System: Business Intelligence in Healthcare<br />
 For more details, check out:<br />
 [PPT](https://github.com/AparGarg99/BI-Bot/blob/master/PPT.pptx)
 
