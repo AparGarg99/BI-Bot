@@ -5,6 +5,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Description of Files](#description-of-files)
+  - [References](#references)
   
 ## Installation
 1. Download and unzip the project
@@ -26,3 +27,6 @@ File Name                                                                       
 [Modified Dataset.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Modified%20Dataset.ipynb)  | coverting chatbot_data.xlsx to data.csv
 [Training spaCy.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Training%20spaCy.ipynb)      | custom train scaCy model for NER
 [Code.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Code.ipynb)                            | QA system code
+
+## References
+[https://medium.com/@manivannan_data/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6](https://medium.com/@manivannan_data/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6)
