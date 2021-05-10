@@ -7,7 +7,7 @@
 
 ## Usage
 1. Open Jupyter Notebook in your local machine
-2. Open [Code2.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Code.ipynb) 
+2. Open [Code2.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Added_Functionalities/Code2.ipynb) 
 3. Change the slack_api_token and channel_id
 4. Execute Code2.ipynb
 5. Open Slack channel and start writing questions
