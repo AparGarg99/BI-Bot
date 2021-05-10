@@ -1,6 +1,6 @@
-# BI-Bot
-* [Research Paper](https://link.springer.com/chapter/10.1007/978-981-16-0401-0_16)
-* [PPT](https://github.com/AparGarg99/BI-Bot/blob/master/PPT.pptx)
+* [Report](https://github.com/AparGarg99/BI-Bot/blob/master/Added_Functionalities/Report.docx)
+* [PPT](https://github.com/AparGarg99/BI-Bot/blob/master/Added_Functionalities/PPT.pptx)
+* [Poster](https://github.com/AparGarg99/BI-Bot/blob/master/Added_Functionalities/Poster.pptx)
 
 ## Summary
   - [Installation](#installation)
@@ -17,18 +17,11 @@ pip install -r requirements.txt
 ```
 ## Usage
 1. Open Jupyter Notebook in your local machine
-2. Execute the [Code.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Code.ipynb)
+2. Execute [Code2.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Code.ipynb)
 <img src="https://user-images.githubusercontent.com/54896849/89638105-e0839500-d8c8-11ea-8c79-ad5d8061312e.gif">
 
 ## Description of Files
-Python files ordered by flow of execution
 
 File Name                                                                                            |  Description
 -----------------                                                                                    |--------------------------------------------------------------------------
-[Modified Dataset.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Modified%20Dataset.ipynb)  | coverting chatbot_data.xlsx to data.csv
-[Training spaCy.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Training%20spaCy.ipynb)      | custom train scaCy model for NER
-[Code.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Code.ipynb)                            | QA system code
-
-## References
-* [https://medium.com/@manivannan_data/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6](https://medium.com/@manivannan_data/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6)
-* [https://spacy.io/usage/linguistic-features#named-entities](https://spacy.io/usage/linguistic-features#named-entities)
+[Code2.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Added_Functionalities/Code2.ipynb)    | QA system code with added functionalities
