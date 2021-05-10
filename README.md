@@ -1,6 +1,6 @@
 # BI-Bot
-[Research Paper](https://link.springer.com/chapter/10.1007/978-981-16-0401-0_16)
-[PPT](https://github.com/AparGarg99/BI-Bot/blob/master/PPT.pptx)
+* [Research Paper](https://link.springer.com/chapter/10.1007/978-981-16-0401-0_16)
+* [PPT](https://github.com/AparGarg99/BI-Bot/blob/master/PPT.pptx)
 
 ## Summary
   - [Installation](#installation)
@@ -30,5 +30,5 @@ File Name                                                                       
 [Code.ipynb](https://github.com/AparGarg99/BI-Bot/blob/master/Code.ipynb)                            | QA system code
 
 ## References
-[https://medium.com/@manivannan_data/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6](https://medium.com/@manivannan_data/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6)
-[https://spacy.io/usage/linguistic-features#named-entities](https://spacy.io/usage/linguistic-features#named-entities)
+* [https://medium.com/@manivannan_data/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6](https://medium.com/@manivannan_data/how-to-train-ner-with-custom-training-data-using-spacy-188e0e508c6)
+* [https://spacy.io/usage/linguistic-features#named-entities](https://spacy.io/usage/linguistic-features#named-entities)
