@@ -2,6 +2,7 @@
 * [Report](https://github.com/AparGarg99/BI-Bot/blob/master/Added_Functionalities/Report.docx)
 * [PPT](https://github.com/AparGarg99/BI-Bot/blob/master/Added_Functionalities/PPT.pptx)
 * [Poster](https://github.com/AparGarg99/BI-Bot/blob/master/Added_Functionalities/Poster.pptx)
+* [Blog](https://apargarg99.medium.com/bi-bot-qa-system-in-healthcare-domain-335fe046d179)
 
 
 ## Usage
