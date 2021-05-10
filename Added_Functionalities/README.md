@@ -11,7 +11,7 @@
 4. Execute Code2.ipynb
 5. Open Slack channel and start writing questions
 
-<img src="https://user-images.githubusercontent.com/54896849/117611781-b9bcfc80-b181-11eb-9785-f8f13fee22a9.gif">
+<img src="https://user-images.githubusercontent.com/54896849/117612235-7b740d00-b182-11eb-8fc9-2deeb67b9827.gif">
 
 ## Description of Files
 
