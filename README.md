@@ -1,4 +1,5 @@
 # BI-Bot
+[Research Paper](https://link.springer.com/chapter/10.1007/978-981-16-0401-0_16)
 [PPT](https://github.com/AparGarg99/BI-Bot/blob/master/PPT.pptx)
 
 ## Summary
